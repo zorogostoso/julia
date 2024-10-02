@@ -1,2 +1,1 @@
-# julia projeto alura
-projeto alura
+# projeto-3-tri
